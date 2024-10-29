@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fafafa;
+}
+
+li{
+    list-style: none;
+}
+
+.large-text{
+    font-size: 64px;
+    font-weight: 700px;
+    line-height: 78px;
+}
+
+ ::-webkit-scrollbar{
+    width: 5px;
+    height: 5px;
+ }
+
+ ::-webkit-scrollbar-thumb{
+    background: #f44335;
+ }
